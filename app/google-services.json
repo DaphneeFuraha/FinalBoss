@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775784743573",
+    "project_id": "finalboss-7435e",
+    "storage_bucket": "finalboss-7435e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775784743573:android:3f1744da5900decc38119c",
+        "android_client_info": {
+          "package_name": "com.example.finalboss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-KBitQ7vw8Tb1WK2xsYz7bI0YRno4Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

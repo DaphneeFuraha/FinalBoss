@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalBoss</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_ref">ref</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="bones">Bones</string>
+    <string name="book">Harry 1</string>
+    <string name="dark">Dark</string>
+    <string name="dress">Dress</string>
+    <string name="dune">Dune</string>
+    <string name="elliot">Elliot</string>
+    <string name="hallow">Hallow</string>
+    <string name="images">Ends</string>
+    <string name="life">Life</string>
+    <string name="nature">Nature</string>
+    <string name="samar">Samar</string>
+    <string name="wed">Wed</string>
+    <string name="clue">Editor\'s Pick</string>
+    <string name="tat">Trending</string>
+    <string name="glossy">New</string>
+    <string name="title_activity_main7">MainActivity7</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main6">MainActivity6</string>
+    <string name="title_activity_main8">MainActivity8</string>
+</resources>
