@@ -226,7 +226,7 @@ fun Greeting3(modifier: Modifier = Modifier) {
 
             )
             Row {
-                Text(text = "")
+                Text(text = " A review of a romance novel that explores the theme of domestic abuse and the internal debate of women in toxic relationships. ")
             }
             Row (modifier = Modifier){
                 IconButton(
@@ -294,7 +294,7 @@ fun Greeting3(modifier: Modifier = Modifier) {
 
             )
             Row {
-                Text(text = "It is a really powerful book that gives and very graphic understanding of the meaning of friendship and the continuing effects of child abuse.")
+                Text(text = "It was heart-felt, beautifully written, and just the right book to escape in. Her main characters were relatable, likable and secretive.")
             }
             Row (modifier = Modifier){
                 IconButton(
@@ -362,7 +362,7 @@ fun Greeting3(modifier: Modifier = Modifier) {
 
             )
             Row {
-                Text(text = " In many ways, this book is quite different to others in the series, with more complex emotional themes as Harry struggles to deal with things")
+                Text(text = "A colourful study of the natural history of ants that takes in dry deserts and lush forests aims to show that sociality is shaped by, and changes")
             }
             Row (modifier = Modifier){
                 IconButton(
@@ -430,7 +430,7 @@ fun Greeting3(modifier: Modifier = Modifier) {
 
             )
             Row {
-                Text(text = " It does read like a first novel, there are a fair few editing issues and I would make some better choices for how the settings are described")
+                Text(text = "This book is undoubtedly darker than the previous ones, as Harry learns more and more about the sinister forces that threaten the wizarding")
             }
             Row (modifier = Modifier){
                 IconButton(
